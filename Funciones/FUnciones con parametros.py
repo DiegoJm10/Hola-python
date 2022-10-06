@@ -1,4 +1,3 @@
-# La función se llama “dibujo”, dibuja un rectángulo y las variables (parámetros) que solicita son el ancho y el alto de la figura 
 def dibujo(width, height): 
    # se utiliza una estructura de control. 
    if width < 10 or height < 10: 
@@ -11,3 +10,5 @@ def dibujo(width, height):
       print("*" + " " * (width - 2) + "*") 
    # Dibuja la parte inferior 
    print("*" * width)
+
+dibujo (12,12)
