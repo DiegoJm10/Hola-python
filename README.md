@@ -25,6 +25,24 @@ Para que este ejercicio funcione debemos instalar primero **Python**.
 
 ## Resultados 
 
+- **Resultado Variable**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/Variables%20python.png?raw=true)
+
+- **Operadores**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/Operadores%20python.png?raw=true)
+
+- **Resultados If-else**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/If-else.png?raw=true)
+
+- **Resultados If-elif-else**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/if-elif-else.png?raw=true)
+
+- **Resultados Estructuras de control anidadas**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/anidadas.png?raw=true)
+- **Resultados While**
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/while%20python.png?raw=true)
+- **Resultado For-While** 
+![](https://github.com/DiegoJm10/Programas-basicos/blob/main/for-while%20python.png?raw=true)
 
 ## Creditos
 Desarrollado por Ing. Diego Jasso Miranda
