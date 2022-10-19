@@ -11,7 +11,7 @@ Para realizar este ejercicio necesitas lo siguiente:
 
 ## Instrucciones 
 ### Resquisitos previos:
-Para que este ejercicio funcione debemos instalar primero **Python**.
+Para que este ejercicio para que funcione debemos instalar primero **Python**.
 
 1. Abrir terminal.
 2. Colocar el siguente comando 
