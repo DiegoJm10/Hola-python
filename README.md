@@ -14,7 +14,7 @@ Para realizar este ejercicio necesitas lo siguiente:
 Para que este ejercicio para que funcione debemos instalar primero **Python**.
 
 1. Abrir terminal.
-2. Colocar el siguente comando 
+2. Colocar el siguente comando:
 
 `python3 --version`
 
