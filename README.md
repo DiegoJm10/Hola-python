@@ -18,7 +18,7 @@ Para que este ejercicio para que funcione debemos instalar primero **Python**.
 
 `python3 --version`
 
-3. Colocar el siguente comando 
+3. Colocar el siguente comando: 
 
 `sudo apt-get instal python3`
 
